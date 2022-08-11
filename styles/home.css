@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#movie-list{
+    display: flex;
+}
+img{
+    border-radius: 10px;
+}
+.n-g{
+    display: grid;
+    padding: 10px;
+
+}
+.n-g h1{
+    font-size: 25px;
+}
+nav{
+    background-color: #041c45;
+    display: flex;
+    justify-content: space-between;
+
+}
+#l-i input{
+    width: 400px;
+
+}
+#d-s-l button{
+    color: white;
+}
