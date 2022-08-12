@@ -8,7 +8,7 @@ app.use(express.static('./images'))
 app.get('/', (req, res) => {
   let data = [
     {
-      img: '/1.avif',
+      img: '/2.avif',
       name: 'Vikrant Rona',
       genre: 'Mystery/thriller/adventure',
     },
